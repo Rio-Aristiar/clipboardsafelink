@@ -1,0 +1,2 @@
+# clipboardsafelink
+copy clipboard
